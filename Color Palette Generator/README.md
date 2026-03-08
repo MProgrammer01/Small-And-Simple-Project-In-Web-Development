@@ -1,1 +1,1 @@
-<img width="372" height="273" alt="color-palette" src="https://github.com/user-attachments/assets/5468ff53-edad-47f5-b22b-dfcfd9d71413" />
+<img width="598" height="361" alt="color-palette" src="https://github.com/user-attachments/assets/29b2ea25-fcaf-49bb-8998-893a044b2384" />
