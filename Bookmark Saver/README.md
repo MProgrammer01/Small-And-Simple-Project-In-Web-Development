@@ -1,1 +1,2 @@
-<img width="347" height="296" alt="bookmark-saver" src="https://github.com/user-attachments/assets/58e434c5-9426-406c-8ede-7bed4abc453f" />
+
+<img width="442" height="287" alt="bookmark-saver" src="https://github.com/user-attachments/assets/eb3018e9-714c-4263-9e1a-938a04c74c9d" />
