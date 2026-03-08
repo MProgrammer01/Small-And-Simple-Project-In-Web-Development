@@ -1,1 +1,2 @@
-<img width="430" height="218" alt="drag-drop" src="https://github.com/user-attachments/assets/a39a4b27-0114-4561-9713-5bf76a3d76d6" />
+
+<img width="968" height="238" alt="drag-drop" src="https://github.com/user-attachments/assets/e329eefb-af21-41d5-a66e-c0db462ec231" />
